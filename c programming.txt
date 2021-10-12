@@ -1,0 +1,10 @@
+/*simple opertation to calculate the surface area ofa cone*/
+# include<stdio.h>
+int main()
+{
+    printf(pi=3.142,r=7,l=16);
+    scanf("&f&f",&r,&l);
+    s/area=pi*r*l
+    printf("in s/area=%f",s/area);
+    return 0
+}ss
